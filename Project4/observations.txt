@@ -1,0 +1,9 @@
+Page	RTT(ms)	PLT: no TFO (s)	PLT: TFO (s)	Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+	200 	713.278 	264.753 	62.8822142278
+	20 	129.068 	96.759 	25.0325409861
+httpwww.amazon.com
+	200 	3886.99 	2913.744 	25.0385516814
+	100 	2355.799 	1592.297 	32.4094712664
+	20 	966.569 	781.076 	19.1908699741
+
